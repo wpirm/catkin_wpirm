@@ -1,7 +1,0 @@
-{
-    "python.autoComplete.extraPaths": [
-        "/home/diggerdata/ws/gym-gazebo/gym_gazebo/envs/installation/catkin_ws/devel/lib/python2.7/dist-packages",
-        "/opt/ros/kinetic/lib/python2.7/dist-packages"
-    ],
-    "python.pythonPath": "/home/diggerdata/.local/share/virtualenvs/YOLOv2-D-6c8r3Mwf/bin/python"
-}

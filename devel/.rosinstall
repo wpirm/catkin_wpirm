@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/diggerdata/catkin_wpirm/devel/setup.sh

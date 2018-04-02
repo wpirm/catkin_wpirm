@@ -1,0 +1,6 @@
+[submodule "src/yolov2_ros"]
+	path = src/yolov2_ros
+	url = git@github.com:diggerdata/yolov2_ros.git
+[submodule "src/vision_msgs"]
+	path = src/vision_msgs
+	url = git@github.com:Kukanani/vision_msgs.git

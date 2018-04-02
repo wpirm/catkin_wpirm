@@ -40,6 +40,7 @@ struct YoloDetectRequest_
 
 
 
+
   typedef boost::shared_ptr< ::yolov2_ros::YoloDetectRequest_<ContainerAllocator> > Ptr;
   typedef boost::shared_ptr< ::yolov2_ros::YoloDetectRequest_<ContainerAllocator> const> ConstPtr;
 

@@ -44,6 +44,7 @@ struct ObjectHypothesis_
 
 
 
+
   typedef boost::shared_ptr< ::vision_msgs::ObjectHypothesis_<ContainerAllocator> > Ptr;
   typedef boost::shared_ptr< ::vision_msgs::ObjectHypothesis_<ContainerAllocator> const> ConstPtr;
 

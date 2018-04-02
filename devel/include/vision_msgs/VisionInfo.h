@@ -55,6 +55,7 @@ struct VisionInfo_
 
 
 
+
   typedef boost::shared_ptr< ::vision_msgs::VisionInfo_<ContainerAllocator> > Ptr;
   typedef boost::shared_ptr< ::vision_msgs::VisionInfo_<ContainerAllocator> const> ConstPtr;
 

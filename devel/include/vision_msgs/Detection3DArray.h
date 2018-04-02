@@ -46,6 +46,7 @@ struct Detection3DArray_
 
 
 
+
   typedef boost::shared_ptr< ::vision_msgs::Detection3DArray_<ContainerAllocator> > Ptr;
   typedef boost::shared_ptr< ::vision_msgs::Detection3DArray_<ContainerAllocator> const> ConstPtr;
 

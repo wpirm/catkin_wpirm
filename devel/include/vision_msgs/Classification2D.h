@@ -52,6 +52,7 @@ struct Classification2D_
 
 
 
+
   typedef boost::shared_ptr< ::vision_msgs::Classification2D_<ContainerAllocator> > Ptr;
   typedef boost::shared_ptr< ::vision_msgs::Classification2D_<ContainerAllocator> const> ConstPtr;
 

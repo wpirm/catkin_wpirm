@@ -50,6 +50,7 @@ struct ObjectHypothesisWithPose_
 
 
 
+
   typedef boost::shared_ptr< ::vision_msgs::ObjectHypothesisWithPose_<ContainerAllocator> > Ptr;
   typedef boost::shared_ptr< ::vision_msgs::ObjectHypothesisWithPose_<ContainerAllocator> const> ConstPtr;
 

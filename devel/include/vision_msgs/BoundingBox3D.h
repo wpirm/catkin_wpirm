@@ -46,6 +46,7 @@ struct BoundingBox3D_
 
 
 
+
   typedef boost::shared_ptr< ::vision_msgs::BoundingBox3D_<ContainerAllocator> > Ptr;
   typedef boost::shared_ptr< ::vision_msgs::BoundingBox3D_<ContainerAllocator> const> ConstPtr;
 

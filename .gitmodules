@@ -4,6 +4,3 @@
 [submodule "src/vision_msgs"]
 	path = src/vision_msgs
 	url = git@github.com:Kukanani/vision_msgs.git
-[submodule "src/cone_pose"]
-	path = src/cone_pose
-	url = git@github.com:wpirm/cone_pose.git

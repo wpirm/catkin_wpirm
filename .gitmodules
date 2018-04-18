@@ -4,3 +4,6 @@
 [submodule "src/vision_msgs"]
 	path = src/vision_msgs
 	url = git@github.com:Kukanani/vision_msgs.git
+[submodule "src/wpirm_navigation"]
+	path = src/wpirm_navigation
+	url = git@github.com:Kukanani/wpirm_navigation.git

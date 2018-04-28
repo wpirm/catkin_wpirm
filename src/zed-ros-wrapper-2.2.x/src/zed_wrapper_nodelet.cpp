@@ -391,7 +391,7 @@ namespace zed_wrapper {
             if (raw_param) zedParam = zed->getCameraInformation().calibration_parameters_raw;
             else zedParam = zed->getCameraInformation().calibration_parameters;
 
-            float baseline = zedParam.T[0] * 0.001; // baseline converted in meters
+            float baseline = zedParam.T[0]; // baseline converted in meters
 
             left_cam_info_msg->distortion_model = sensor_msgs::distortion_models::PLUMB_BOB;
             right_cam_info_msg->distortion_model = sensor_msgs::distortion_models::PLUMB_BOB;

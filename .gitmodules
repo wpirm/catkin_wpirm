@@ -7,3 +7,6 @@
 [submodule "src/wpirm_navigation"]
 	path = src/wpirm_navigation
 	url = git@github.com:Kukanani/wpirm_navigation.git
+[submodule "wpirm_microcontroller"]
+	path = wpirm_microcontroller
+	url = git@github.com:wpirm/wpirm_microcontroller.git
